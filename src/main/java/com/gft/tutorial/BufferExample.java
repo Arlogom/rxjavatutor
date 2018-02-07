@@ -10,7 +10,6 @@ import java.util.List;
 /**
  * Created by also on 30/11/2016.
  */
-//Test 2
 public class BufferExample {
 
     public static void main(String[] args) {
